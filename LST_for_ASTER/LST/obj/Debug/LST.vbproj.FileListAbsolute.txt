@@ -1,0 +1,103 @@
+C:\Documents and Settings\Hatice.MICROSUN\Belgelerim\Visual Studio 2008\Projects\LST\LST\bin\Debug\LST.exe
+C:\Documents and Settings\Hatice.MICROSUN\Belgelerim\Visual Studio 2008\Projects\LST\LST\bin\Debug\LST.pdb
+C:\Documents and Settings\Hatice.MICROSUN\Belgelerim\Visual Studio 2008\Projects\LST\LST\bin\Debug\LST.xml
+C:\Documents and Settings\Hatice.MICROSUN\Belgelerim\Visual Studio 2008\Projects\LST\LST\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Hatice.MICROSUN\Belgelerim\Visual Studio 2008\Projects\LST\LST\obj\Debug\LST.Resources.resources
+C:\Documents and Settings\Hatice.MICROSUN\Belgelerim\Visual Studio 2008\Projects\LST\LST\obj\Debug\LST.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Hatice.MICROSUN\Belgelerim\Visual Studio 2008\Projects\LST\LST\obj\Debug\LST.exe
+C:\Documents and Settings\Hatice.MICROSUN\Belgelerim\Visual Studio 2008\Projects\LST\LST\obj\Debug\LST.xml
+C:\Documents and Settings\Hatice.MICROSUN\Belgelerim\Visual Studio 2008\Projects\LST\LST\obj\Debug\LST.pdb
+C:\Documents and Settings\Hatice.MICROSUN\Belgelerim\Visual Studio 2008\Projects\LST\LST\obj\Debug\LST.FormMain.resources
+C:\Documents and Settings\pc\Belgelerim\Visual Studio 2008\Projects\LST\LST\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\pc\Belgelerim\Visual Studio 2008\Projects\LST\LST\obj\Debug\LST.FormMain.resources
+C:\Documents and Settings\pc\Belgelerim\Visual Studio 2008\Projects\LST\LST\obj\Debug\LST.Resources.resources
+C:\Documents and Settings\pc\Belgelerim\Visual Studio 2008\Projects\LST\LST\obj\Debug\LST.vbproj.GenerateResource.Cache
+C:\Documents and Settings\pc\Belgelerim\Visual Studio 2008\Projects\LST\LST\obj\Debug\LST.FormNDVI.resources
+C:\Documents and Settings\Hatice.MICROSUN\Belgelerim\Visual Studio 2008\Projects\LST\LST\obj\Debug\LST.FormEmissivity.resources
+C:\Documents and Settings\Hatice.MICROSUN\Belgelerim\Visual Studio 2008\Projects\LST\LST\obj\Debug\LST.FormNDVI.resources
+C:\Documents and Settings\Hatice.MICROSUN\Belgelerim\Visual Studio 2008\Projects\LST\LST\obj\Debug\LST.FormReflectance.resources
+C:\Documents and Settings\Hatice.MICROSUN\Belgelerim\Visual Studio 2008\Projects\LST\LST\obj\Debug\LST.FormKineticTemp.resources
+C:\Documents and Settings\Hatice.MICROSUN\Belgelerim\Visual Studio 2008\Projects\LST\LST\obj\Debug\LST.FormSurfaceTemp.resources
+C:\Documents and Settings\pc\Belgelerim\Visual Studio 2008\Projects\LST\LST\obj\Debug\LST.FormAbout.resources
+C:\Documents and Settings\pc\Belgelerim\Visual Studio 2008\Projects\LST\LST\obj\Debug\LST.FormEmissivity.resources
+C:\Documents and Settings\pc\Belgelerim\Visual Studio 2008\Projects\LST\LST\obj\Debug\LST.FormKineticTemp.resources
+C:\Documents and Settings\pc\Belgelerim\Visual Studio 2008\Projects\LST\LST\obj\Debug\LST.FormReflectance.resources
+C:\Documents and Settings\pc\Belgelerim\Visual Studio 2008\Projects\LST\LST\obj\Debug\LST.FormSurfaceTemp.resources
+C:\Documents and Settings\HAKAN OGUZ\My Documents\Visual Studio 2008\Projects\LST\LST\obj\Debug\LST.exe
+C:\Documents and Settings\HAKAN OGUZ\My Documents\Visual Studio 2008\Projects\LST\LST\obj\Debug\LST.xml
+C:\Documents and Settings\HAKAN OGUZ\My Documents\Visual Studio 2008\Projects\LST\LST\obj\Debug\LST.pdb
+C:\Documents and Settings\HAKAN OGUZ\My Documents\Visual Studio 2008\Projects\LST\LST\bin\Debug\LST.exe
+C:\Documents and Settings\HAKAN OGUZ\My Documents\Visual Studio 2008\Projects\LST\LST\bin\Debug\LST.pdb
+C:\Documents and Settings\HAKAN OGUZ\My Documents\Visual Studio 2008\Projects\LST\LST\bin\Debug\LST.xml
+C:\Documents and Settings\HAKAN OGUZ\My Documents\Visual Studio 2008\Projects\LST\LST\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\HAKAN OGUZ\My Documents\Visual Studio 2008\Projects\LST\LST\obj\Debug\LST.FormAbout.resources
+C:\Documents and Settings\HAKAN OGUZ\My Documents\Visual Studio 2008\Projects\LST\LST\obj\Debug\LST.FormEmissivity.resources
+C:\Documents and Settings\HAKAN OGUZ\My Documents\Visual Studio 2008\Projects\LST\LST\obj\Debug\LST.FormKineticTemp.resources
+C:\Documents and Settings\HAKAN OGUZ\My Documents\Visual Studio 2008\Projects\LST\LST\obj\Debug\LST.FormMain.resources
+C:\Documents and Settings\HAKAN OGUZ\My Documents\Visual Studio 2008\Projects\LST\LST\obj\Debug\LST.FormNDVI.resources
+C:\Documents and Settings\HAKAN OGUZ\My Documents\Visual Studio 2008\Projects\LST\LST\obj\Debug\LST.FormReflectance.resources
+C:\Documents and Settings\HAKAN OGUZ\My Documents\Visual Studio 2008\Projects\LST\LST\obj\Debug\LST.FormSurfaceTemp.resources
+C:\Documents and Settings\HAKAN OGUZ\My Documents\Visual Studio 2008\Projects\LST\LST\obj\Debug\LST.Resources.resources
+C:\Documents and Settings\HAKAN OGUZ\My Documents\Visual Studio 2008\Projects\LST\LST\obj\Debug\LST.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Hatice.MICROSUN\Belgelerim\Visual Studio 2008\Projects\LST\LST\obj\Debug\LST.FormAbout.resources
+C:\Documents and Settings\Hatice.MICROSUN\Belgelerim\Visual Studio 2008\Projects\LST\LST\obj\Debug\LST.FormLandsatTMETM.resources
+C:\Documents and Settings\pc\Belgelerim\Visual Studio 2008\Projects\LST\LST\obj\Debug\LST.FormLandsatTMETM.resources
+C:\Documents and Settings\HAKAN OGUZ\My Documents\Visual Studio 2008\Projects\LST\LST\obj\Debug\LST.FormLandsatTMETM.resources
+C:\Documents and Settings\HAKAN OGUZ\My Documents\Visual Studio 2008\Projects\LST\LST\bin\Debug\LST.exe.manifest
+C:\Documents and Settings\HAKAN OGUZ\My Documents\Visual Studio 2008\Projects\LST\LST\bin\Debug\LST.application
+C:\Documents and Settings\HAKAN OGUZ\My Documents\Visual Studio 2008\Projects\LST\LST\obj\Debug\LST.exe.manifest
+C:\Documents and Settings\HAKAN OGUZ\My Documents\Visual Studio 2008\Projects\LST\LST\obj\Debug\LST.application
+C:\Documents and Settings\Hatice.MICROSUN\Belgelerim\Visual Studio 2008\Projects\LST\LST\bin\Debug\LST.exe.manifest
+C:\Documents and Settings\Hatice.MICROSUN\Belgelerim\Visual Studio 2008\Projects\LST\LST\bin\Debug\LST.application
+C:\Documents and Settings\Hatice.MICROSUN\Belgelerim\Visual Studio 2008\Projects\LST\LST\obj\Debug\LST.exe.manifest
+C:\Documents and Settings\Hatice.MICROSUN\Belgelerim\Visual Studio 2008\Projects\LST\LST\obj\Debug\LST.application
+C:\Documents and Settings\pc\Belgelerim\Visual Studio 2008\Projects\LST\LST\bin\Debug\LST CalculatoR.exe.manifest
+C:\Documents and Settings\pc\Belgelerim\Visual Studio 2008\Projects\LST\LST\bin\Debug\LST CalculatoR.application
+C:\Documents and Settings\pc\Belgelerim\Visual Studio 2008\Projects\LST\LST\bin\Debug\LST CalculatoR.exe
+C:\Documents and Settings\pc\Belgelerim\Visual Studio 2008\Projects\LST\LST\bin\Debug\LST CalculatoR.pdb
+C:\Documents and Settings\pc\Belgelerim\Visual Studio 2008\Projects\LST\LST\bin\Debug\LST CalculatoR.xml
+C:\Documents and Settings\pc\Belgelerim\Visual Studio 2008\Projects\LST\LST\obj\Debug\LST.FormIntro.resources
+C:\Documents and Settings\pc\Belgelerim\Visual Studio 2008\Projects\LST\LST\obj\Debug\LST CalculatoR.exe.manifest
+C:\Documents and Settings\pc\Belgelerim\Visual Studio 2008\Projects\LST\LST\obj\Debug\LST CalculatoR.application
+C:\Documents and Settings\pc\Belgelerim\Visual Studio 2008\Projects\LST\LST\obj\Debug\LST CalculatoR.exe
+C:\Documents and Settings\pc\Belgelerim\Visual Studio 2008\Projects\LST\LST\obj\Debug\LST CalculatoR.xml
+C:\Documents and Settings\pc\Belgelerim\Visual Studio 2008\Projects\LST\LST\obj\Debug\LST CalculatoR.pdb
+C:\Documents and Settings\pc\Belgelerim\Visual Studio 2008\Projects\LST\LST\obj\Debug\LST.FormEmissClass.resources
+D:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\LST\LST\obj\Debug\LST CalculatoR.exe
+D:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\LST\LST\obj\Debug\LST CalculatoR.xml
+D:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\LST\LST\obj\Debug\LST CalculatoR.pdb
+D:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\LST\LST\bin\Debug\LST CalculatoR.exe.manifest
+D:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\LST\LST\bin\Debug\LST CalculatoR.application
+D:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\LST\LST\bin\Debug\LST CalculatoR.exe
+D:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\LST\LST\bin\Debug\LST CalculatoR.pdb
+D:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\LST\LST\bin\Debug\LST CalculatoR.xml
+D:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\LST\LST\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\LST\LST\obj\Debug\LST.FormAbout.resources
+D:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\LST\LST\obj\Debug\LST.FormEmissivity.resources
+D:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\LST\LST\obj\Debug\LST.FormIntro.resources
+D:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\LST\LST\obj\Debug\LST.FormKineticTemp.resources
+D:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\LST\LST\obj\Debug\LST.FormMain.resources
+D:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\LST\LST\obj\Debug\LST.FormNDVI.resources
+D:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\LST\LST\obj\Debug\LST.FormReflectance.resources
+D:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\LST\LST\obj\Debug\LST.FormSurfaceTemp.resources
+D:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\LST\LST\obj\Debug\LST.Resources.resources
+D:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\LST\LST\obj\Debug\LST.vbproj.GenerateResource.Cache
+D:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\LST\LST\obj\Debug\LST CalculatoR.exe.manifest
+D:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\LST\LST\obj\Debug\LST CalculatoR.application
+D:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\LST\LST\obj\Debug\LST.FormDNtoRadiance.resources
+D:\Softwares that I have developed\Vb 2008 Express LST Code\LST\LST\obj\Debug\LST.vbprojAssemblyReference.cache
+D:\Softwares that I have developed\Vb 2008 Express LST Code\LST\LST\obj\Debug\LST.FormAbout.resources
+D:\Softwares that I have developed\Vb 2008 Express LST Code\LST\LST\obj\Debug\LST.FormEmissivity.resources
+D:\Softwares that I have developed\Vb 2008 Express LST Code\LST\LST\obj\Debug\LST.FormIntro.resources
+D:\Softwares that I have developed\Vb 2008 Express LST Code\LST\LST\obj\Debug\LST.FormKineticTemp.resources
+D:\Softwares that I have developed\Vb 2008 Express LST Code\LST\LST\obj\Debug\LST.FormDNtoRadiance.resources
+D:\Softwares that I have developed\Vb 2008 Express LST Code\LST\LST\obj\Debug\LST.FormMain.resources
+D:\Softwares that I have developed\Vb 2008 Express LST Code\LST\LST\obj\Debug\LST.FormNDVI.resources
+D:\Softwares that I have developed\Vb 2008 Express LST Code\LST\LST\obj\Debug\LST.FormReflectance.resources
+D:\Softwares that I have developed\Vb 2008 Express LST Code\LST\LST\obj\Debug\LST.FormSurfaceTemp.resources
+D:\Softwares that I have developed\Vb 2008 Express LST Code\LST\LST\obj\Debug\LST.Resources.resources
+D:\Softwares that I have developed\Vb 2008 Express LST Code\LST\LST\obj\Debug\LST.vbproj.GenerateResource.cache
+D:\Softwares that I have developed\Vb 2008 Express LST Code\LST\LST\obj\Debug\LST.vbproj.CoreCompileInputs.cache
+D:\Softwares that I have developed\Vb 2008 Express LST Code\LST\LST\obj\Debug\LST CalculatoR.exe
+D:\Softwares that I have developed\Vb 2008 Express LST Code\LST\LST\obj\Debug\LST CalculatoR.xml
+D:\Softwares that I have developed\Vb 2008 Express LST Code\LST\LST\obj\Debug\LST CalculatoR.pdb

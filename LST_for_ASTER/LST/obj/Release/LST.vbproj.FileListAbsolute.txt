@@ -1,0 +1,47 @@
+C:\Documents and Settings\HAKAN OGUZ\My Documents\Visual Studio 2008\Projects\LST\LST\bin\Release\LST.exe.manifest
+C:\Documents and Settings\HAKAN OGUZ\My Documents\Visual Studio 2008\Projects\LST\LST\bin\Release\LST.application
+C:\Documents and Settings\HAKAN OGUZ\My Documents\Visual Studio 2008\Projects\LST\LST\bin\Release\LST.exe
+C:\Documents and Settings\HAKAN OGUZ\My Documents\Visual Studio 2008\Projects\LST\LST\bin\Release\LST.pdb
+C:\Documents and Settings\HAKAN OGUZ\My Documents\Visual Studio 2008\Projects\LST\LST\bin\Release\LST.xml
+C:\Documents and Settings\HAKAN OGUZ\My Documents\Visual Studio 2008\Projects\LST\LST\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\HAKAN OGUZ\My Documents\Visual Studio 2008\Projects\LST\LST\obj\Release\LST.FormAbout.resources
+C:\Documents and Settings\HAKAN OGUZ\My Documents\Visual Studio 2008\Projects\LST\LST\obj\Release\LST.FormEmissivity.resources
+C:\Documents and Settings\HAKAN OGUZ\My Documents\Visual Studio 2008\Projects\LST\LST\obj\Release\LST.FormKineticTemp.resources
+C:\Documents and Settings\HAKAN OGUZ\My Documents\Visual Studio 2008\Projects\LST\LST\obj\Release\LST.FormMain.resources
+C:\Documents and Settings\HAKAN OGUZ\My Documents\Visual Studio 2008\Projects\LST\LST\obj\Release\LST.FormNDVI.resources
+C:\Documents and Settings\HAKAN OGUZ\My Documents\Visual Studio 2008\Projects\LST\LST\obj\Release\LST.FormReflectance.resources
+C:\Documents and Settings\HAKAN OGUZ\My Documents\Visual Studio 2008\Projects\LST\LST\obj\Release\LST.FormSurfaceTemp.resources
+C:\Documents and Settings\HAKAN OGUZ\My Documents\Visual Studio 2008\Projects\LST\LST\obj\Release\LST.Resources.resources
+C:\Documents and Settings\HAKAN OGUZ\My Documents\Visual Studio 2008\Projects\LST\LST\obj\Release\LST.vbproj.GenerateResource.Cache
+C:\Documents and Settings\HAKAN OGUZ\My Documents\Visual Studio 2008\Projects\LST\LST\obj\Release\LST.exe.manifest
+C:\Documents and Settings\HAKAN OGUZ\My Documents\Visual Studio 2008\Projects\LST\LST\obj\Release\LST.application
+C:\Documents and Settings\HAKAN OGUZ\My Documents\Visual Studio 2008\Projects\LST\LST\obj\Release\LST.exe
+C:\Documents and Settings\HAKAN OGUZ\My Documents\Visual Studio 2008\Projects\LST\LST\obj\Release\LST.xml
+C:\Documents and Settings\HAKAN OGUZ\My Documents\Visual Studio 2008\Projects\LST\LST\obj\Release\LST.pdb
+C:\Documents and Settings\HAKAN OGUZ\My Documents\Visual Studio 2008\Projects\LST\LST\obj\Release\LST.FormLandsatTMETM.resources
+C:\Documents and Settings\pc\Belgelerim\Visual Studio 2008\Projects\LST\LST\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\pc\Belgelerim\Visual Studio 2008\Projects\LST\LST\obj\Release\LST.FormAbout.resources
+C:\Documents and Settings\pc\Belgelerim\Visual Studio 2008\Projects\LST\LST\obj\Release\LST.FormEmissivity.resources
+C:\Documents and Settings\pc\Belgelerim\Visual Studio 2008\Projects\LST\LST\obj\Release\LST.FormKineticTemp.resources
+C:\Documents and Settings\pc\Belgelerim\Visual Studio 2008\Projects\LST\LST\obj\Release\LST.FormLandsatTMETM.resources
+C:\Documents and Settings\pc\Belgelerim\Visual Studio 2008\Projects\LST\LST\obj\Release\LST.FormMain.resources
+C:\Documents and Settings\pc\Belgelerim\Visual Studio 2008\Projects\LST\LST\obj\Release\LST.FormNDVI.resources
+C:\Documents and Settings\pc\Belgelerim\Visual Studio 2008\Projects\LST\LST\obj\Release\LST.FormReflectance.resources
+C:\Documents and Settings\pc\Belgelerim\Visual Studio 2008\Projects\LST\LST\obj\Release\LST.FormSurfaceTemp.resources
+C:\Documents and Settings\pc\Belgelerim\Visual Studio 2008\Projects\LST\LST\obj\Release\LST.Resources.resources
+C:\Documents and Settings\pc\Belgelerim\Visual Studio 2008\Projects\LST\LST\obj\Release\LST.vbproj.GenerateResource.Cache
+C:\Documents and Settings\pc\Belgelerim\Visual Studio 2008\Projects\LST\LST\bin\Release\LST CalculatoR.exe.manifest
+C:\Documents and Settings\pc\Belgelerim\Visual Studio 2008\Projects\LST\LST\bin\Release\LST CalculatoR.application
+C:\Documents and Settings\pc\Belgelerim\Visual Studio 2008\Projects\LST\LST\bin\Release\LST CalculatoR.exe
+C:\Documents and Settings\pc\Belgelerim\Visual Studio 2008\Projects\LST\LST\bin\Release\LST CalculatoR.pdb
+C:\Documents and Settings\pc\Belgelerim\Visual Studio 2008\Projects\LST\LST\bin\Release\LST CalculatoR.xml
+C:\Documents and Settings\pc\Belgelerim\Visual Studio 2008\Projects\LST\LST\obj\Release\LST CalculatoR.exe.manifest
+C:\Documents and Settings\pc\Belgelerim\Visual Studio 2008\Projects\LST\LST\obj\Release\LST CalculatoR.application
+C:\Documents and Settings\pc\Belgelerim\Visual Studio 2008\Projects\LST\LST\obj\Release\LST CalculatoR.exe
+C:\Documents and Settings\pc\Belgelerim\Visual Studio 2008\Projects\LST\LST\obj\Release\LST CalculatoR.xml
+C:\Documents and Settings\pc\Belgelerim\Visual Studio 2008\Projects\LST\LST\obj\Release\LST CalculatoR.pdb
+C:\Documents and Settings\pc\Belgelerim\Visual Studio 2008\Projects\LST\LST\obj\Release\LST.FormIntro.resources
+C:\Documents and Settings\pc\Belgelerim\Visual Studio 2008\Projects\LST\LST\obj\Release\LST.FormEmissClass.resources
+D:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\LST\LST\obj\Release\LST CalculatoR.exe
+D:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\LST\LST\obj\Release\LST CalculatoR.xml
+D:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\LST\LST\obj\Release\LST CalculatoR.pdb
