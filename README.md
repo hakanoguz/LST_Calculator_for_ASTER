@@ -16,6 +16,7 @@ Parameter values that are going to be used during test run of LST Calculator wit
 
 
 
+
 PARAMETER NAME						VALUE
 UCC (Unit Conversion Coefficient) for Band 2		0.708
 UCC (Unit Conversion Coefficient) for Band 3N		0.862
