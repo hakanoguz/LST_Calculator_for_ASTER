@@ -14,7 +14,6 @@ ASTER TIR band (band 14) (data type is Short)
 Parameter values that are going to be used during test run of LST Calculator with the test data are as follows: 
 
 
-
 PARAMETER NAME						VALUE
 UCC (Unit Conversion Coefficient) for Band 2		0.708
 UCC (Unit Conversion Coefficient) for Band 3N		0.862
