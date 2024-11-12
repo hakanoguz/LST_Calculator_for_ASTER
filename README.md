@@ -30,5 +30,3 @@ Upwelling Radiance					1.01
 Downwelling Radiance					1.69
 
 
-
-
