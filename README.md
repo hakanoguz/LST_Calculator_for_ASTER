@@ -28,3 +28,4 @@ K2 for Band 14						1274.49
 Atmospheric Transmission				0.87
 Upwelling Radiance					1.01
 Downwelling Radiance					1.69
+
