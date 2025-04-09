@@ -12,7 +12,6 @@ ASTER band_3 (data type is Byte)
 ASTER TIR band (band 14) (data type is Short)
 
 
-
 Parameter values that are going to be used during test run of LST Calculator with the test data are as follows: 
 
 PARAMETER NAME						VALUE
